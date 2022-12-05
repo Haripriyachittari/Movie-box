@@ -1,3 +1,12 @@
+# Movie Box - Movie searching app
+
+An Application built with integration of API, use of useState,useEffect hooks and resusable components
+
+[Website live link](https://movie-box-xd.netlify.app/)
+
+![Screenshot_22](https://user-images.githubusercontent.com/117892673/205648729-e23b270e-8ea0-4a07-9553-3fc8cef7ba86.png)
+
+
 # Getting Started with Create React App
 
 In the project directory, you can run:
@@ -17,9 +26,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-# Movie Box - Movie searching app
-
-An Application built with integration of API, use of useState,useEffect hooks and resusable components
-
-[Website live link](https://movie-box-xd.netlify.app/)
 
