@@ -14,9 +14,13 @@ Clone this repositry using
 
 ### cd Movie-box
 
-In the project directory, you can run:
+Install all the dependencies:
 
 ### `npm install`
+
+
+Start running the application with this command
+
 ### `npm start`
 
 Runs the app in the development mode.\
